@@ -1,0 +1,7 @@
+== Learning EmberJS
+
+Time to learn a new framework: EmberJS.
+
+This will be my first EmberJS application. Hurray!
+
+http://emberjs.com/
